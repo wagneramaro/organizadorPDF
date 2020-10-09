@@ -1,0 +1,12 @@
+{
+    "name": "wide/lerpdf",
+    "authors": [
+        {
+            "name": "Wagner PC Certa",
+            "email": "contato@agenciawide.com.br"
+        }
+    ],
+    "require": {
+        "smalot/pdfparser":"*"
+    }
+}
