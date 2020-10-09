@@ -3,10 +3,12 @@ include 'vendor/autoload.php';
 
 
 $dados = array(
-    array('nome' => 'ADAO CARLOS', 'cpf' => '68734816615'),
-    array('nome' => 'CARLOS EDUARDO DO PRADO', 'cpf' => '04438635632'),
+    array('nome' => 'ADAO CARLOS', 'cpf' => '-'),
+    array('nome' => 'CARLOS EDUARDO DO PRADO', 'cpf' => '-'),
     array('nome' => 'ALEX JUNIO FERREIRA COELHO', 'cpf' => '...')
 );
+
+
 
 $mensagem = '.';
 
